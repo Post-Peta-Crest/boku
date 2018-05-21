@@ -46,6 +46,7 @@ AiS framework for the reduction calculator (RED) and Locally Essential Tree (LET
 ## ART: Space Radiative Transfer on FPGA
 
 ART (Authentic Radiation Transfer) is one of algorithms used in ARGOT (Accelerated Radiative transfer on Grids using Oct-Tree) program. ARGOT solves space radiative transfer problem and has been developed in Center for Computational Sciences in University of Tsukuba. 
+
 ART is a dominant part of ARGOT program and dominates more than 90% of its computation time. We selected ART method to demonstrate the practical use of AiS concept. Before implementing network functionality in an FPGA, we have been optimizing ART algorithm on FPGA using OpenCL HLS (High Level Synthesis). OpenCL enables us to program FPGA without HDL (Hardware Description Language) for high productivity and easiness of application coding. Since our implementation is work in progress, problem size which FPGA can solve is limited by the size of BRAM in an FPGA chip. We apply 163 problem size for performance evaluation because it is the maximum size where FPGA can solve. It will be expanded to use DDR memory very soon. We will combine this computation part by OpenCL with the networking module to realize AiS system.
 
 ![ART1]({{ site.baseurl }}/img/ART1.png)
