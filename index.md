@@ -2,6 +2,21 @@
 title: Research and Development on Unified Environment of Accelerated Computing and Interconnection for Post-Petascale Era
 ---
 
+# Team Description
+
+* PI: Taisuke Boku (University of Tsukuba)
+* co-PI: Hideharu Amano (Keio University), Hitoshi Murai (AICS, RIKEN) and Masayuki Umemura (University of Tsukuba)
+* Research Period: 2012～2017
+* [Research highlights]({{ site.baseurl }}/brochure-boku-2017.pdf)
+
+# Published Software
+
+* [XcalableACC specification and compiler](https://github.com/XcalableMP/XACC-Specification)
+* GPU accelerated Hartree-Fock matrix routine will be published as OpenFMO contributed code on March 2018.
+* OpenCL enabled optical interconnection BSP and Verilog HDL library for Intel Arria10 FPGA will be published on March 2018.
+
+---
+
 # Low Latency Communication for Strong Scaling with Next Generation Parallel Accelerated Computing
 
 ## AiS (Accelerator in Switch) and FPGA interconnection
