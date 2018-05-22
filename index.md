@@ -6,8 +6,8 @@ title: Research and Development on Unified Environment of Accelerated Computing 
 
 * PI: Taisuke Boku (University of Tsukuba)
 * co-PI: Hideharu Amano (Keio University), Hitoshi Murai (AICS, RIKEN) and Masayuki Umemura (University of Tsukuba)
-* Research Period: 2012～2017
-* [Research highlights]({{ site.baseurl }}/brochure-boku-2017.pdf)
+* Research Period: 2012 -- 2017
+* [Research highlights in pdf]({{ site.baseurl }}/brochure-boku-2017.pdf)
 
 # Published Software
 

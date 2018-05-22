@@ -4,8 +4,9 @@ theme: jekyll-theme-cayman
 
 # https://github.com/pages-themes/cayman/blob/master/_layouts/default.html
 title: Research and Development on Unified Environment of Accelerated Computing and Interconnection for Post-Petascale Era
-leader: Taisuke Boku (University of Tsukuba)
-members: Hideharu Amano (Keio University), Hitoshi Murai (RIKEN) and Masayuki Umemura (University of Tsukuba)
+
+# leader: Taisuke Boku (University of Tsukuba)
+# members: Hideharu Amano (Keio University), Hitoshi Murai (RIKEN) and Masayuki Umemura (University of Tsukuba)
 
 github:
   is_project_page: false
